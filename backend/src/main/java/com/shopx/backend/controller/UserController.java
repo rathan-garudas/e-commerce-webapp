@@ -1,11 +1,11 @@
 package com.shopx.backend.controller;
 
-import com.alexm.backend.dao.RoleDAO;
-import com.alexm.backend.dao.UserDAO;
-import com.alexm.backend.entity.Product;
-import com.alexm.backend.entity.User;
-import com.alexm.backend.security.MyUserDetails;
-import com.alexm.backend.security.UserCredentials;
+import com.shopx.backend.dao.RoleDAO;
+import com.shopx.backend.dao.UserDAO;
+import com.shopx.backend.entity.Product;
+import com.shopx.backend.entity.User;
+import com.shopx.backend.security.MyUserDetails;
+import com.shopx.backend.security.UserCredentials;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

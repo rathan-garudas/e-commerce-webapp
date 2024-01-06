@@ -1,6 +1,6 @@
 package com.shopx.backend.dao;
 
-import com.alexm.backend.entity.User;
+import com.shopx.backend.entity.User;
 
 public interface UserDAO {
     public User findByName(String name);

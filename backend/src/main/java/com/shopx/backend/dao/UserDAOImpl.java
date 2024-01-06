@@ -1,6 +1,6 @@
 package com.shopx.backend.dao;
 
-import com.alexm.backend.entity.User;
+import com.shopx.backend.entity.User;
 import org.hibernate.Session;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
